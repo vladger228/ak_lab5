@@ -1,0 +1,4 @@
+--help or -h
+--version or -v
+--key or -k
+--carg or -c
